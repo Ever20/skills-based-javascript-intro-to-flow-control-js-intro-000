@@ -1,12 +1,10 @@
-function basicTeenager(age) {
+If("basicTeenager")`is`(13) {'you are a teenager'!}
+
+function `if`teenager(13) {
 
 }
 
-function teenager(age) {
-
-}
-
-function ageChecker(age) {
+function if (conditionToTest)(13) {
 
 }
 
